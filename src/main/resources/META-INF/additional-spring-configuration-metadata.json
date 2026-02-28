@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "flyway.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'flyway.enabled'"
+  },
+  {
+    "name": "flyway.locations",
+    "type": "java.lang.String",
+    "description": "A description for 'flyway.locations'"
+  },
+  {
+    "name": "spring.jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jwt.secret'"
+  },
+  {
+    "name": "spring.jwt.access-token-expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jwt.access-token-expiration'"
+  },
+  {
+    "name": "spring.jwt.refresh-token-expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jwt.refresh-token-expiration'"
+  },
+  {
+    "name": "stripe.secret-key",
+    "type": "java.lang.String",
+    "description": "A description for 'stripe.secret-key'"
+  },
+  {
+    "name": "websiteUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'websiteUrl'"
+  },
+  {
+    "name": "stripe.webhookSecretKey",
+    "type": "java.lang.String",
+    "description": "A description for 'stripe.webhookSecretKey'"
+  },
+  {
+    "name": "setup.token",
+    "type": "java.lang.String",
+    "description": "A description for 'setup.token'"
+  }
+]}
